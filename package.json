@@ -1,0 +1,22 @@
+{
+  "name": "men_easy_backend",
+  "version": "1.0.0",
+  "description": "An easy backend code for beginners using MongoDb, Express and Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali3eer/men_easy_backend.git"
+  },
+  "keywords": [
+    "auto_backend"
+  ],
+  "author": "ali3eer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ali3eer/men_easy_backend/issues"
+  },
+  "homepage": "https://github.com/ali3eer/men_easy_backend#readme"
+}
