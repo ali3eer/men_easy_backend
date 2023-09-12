@@ -4,7 +4,8 @@
   "description": "An easy backend code for beginners using MongoDb, Express and Node.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node addPackage.js"
   },
   "repository": {
     "type": "git",
