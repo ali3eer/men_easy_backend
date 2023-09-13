@@ -1,7 +1,7 @@
 const FsServices = require("./FsServices");
 
 FsServices.createFile(
-  "../test/package.json",
+  "../../package.json",
   `{
     "name": "men_easy_backend",
     "version": "1.0.0",
